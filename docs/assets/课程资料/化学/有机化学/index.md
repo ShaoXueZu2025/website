@@ -13,7 +13,6 @@
 <!-- LIST: [卤代烃.pdf] -->
 <!-- LIST: [有机化学笔记.pdf] -->
 <!-- LIST: [立体异构.pptx] -->
-<!-- LIST: [第10章-Amines.pdf] -->
 <!-- LIST: [第2章-酸碱理论.pdf] -->
 <!-- LIST: [第3章-Alkanes and cycloalkanes.pdf] -->
 <!-- LIST: [第4章-Alkenes and Alkynes.pdf] -->
@@ -22,6 +21,7 @@
 <!-- LIST: [第7章-Haloalkanes.pdf] -->
 <!-- LIST: [第8章-Alcohols, Ethers, and Thiols.pdf] -->
 <!-- LIST: [第9章-Benzene and Its Derivatives.pdf] -->
+<!-- LIST: [第10章-Amines.pdf] -->
 <!-- LIST: [芳香烃.pptx] -->
 <!-- LIST: [醇和醚.pptx] -->
 <!-- AUTOGEN CONFIG END -->
@@ -48,9 +48,6 @@
 
 ??? note "立体异构.pptx <a href="./立体异构.pptx" download>[下载]</a>"
 
-??? note "第10章-Amines.pdf <a href="./第10章-Amines.pdf" download>[下载]</a>"
-    <iframe src="第10章-Amines.pdf" width="100%" height="500px"></iframe>
-
 ??? note "第2章-酸碱理论.pdf <a href="./第2章-酸碱理论.pdf" download>[下载]</a>"
     <iframe src="第2章-酸碱理论.pdf" width="100%" height="500px"></iframe>
 
@@ -74,6 +71,9 @@
 
 ??? note "第9章-Benzene and Its Derivatives.pdf <a href="./第9章-Benzene and Its Derivatives.pdf" download>[下载]</a>"
     <iframe src="第9章-Benzene and Its Derivatives.pdf" width="100%" height="500px"></iframe>
+
+??? note "第10章-Amines.pdf <a href="./第10章-Amines.pdf" download>[下载]</a>"
+    <iframe src="第10章-Amines.pdf" width="100%" height="500px"></iframe>
 
 ??? note "芳香烃.pptx <a href="./芳香烃.pptx" download>[下载]</a>"
 
