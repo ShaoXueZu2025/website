@@ -16,13 +16,22 @@
 <!-- AUTOGEN CONTENT START -->
 <!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->
 <!-- 这些内容是自动生成的，所有修改该都可能在未加确认的情况下直接覆盖，不要编辑!!! -->
-- <a href="./少年班预科二学生综合素质测评成绩评分细则.20231013.docx">少年班预科二学生综合素质测评成绩评分细则.20231013.docx</a> <a href="./少年班预科二学生综合素质测评成绩评分细则.20231013.docx" download>下载</a>
-- <a href="./2022级少年班进入各类试验班选拔细则.pdf">2022级少年班进入各类试验班选拔细则.pdf</a> <a href="./2022级少年班进入各类试验班选拔细则.pdf" download>下载</a>
-- <a href="./西安交通大学本科生综合素质测评成绩评定办法.pdf">西安交通大学本科生综合素质测评成绩评定办法.pdf</a> <a href="./西安交通大学本科生综合素质测评成绩评定办法.pdf" download>下载</a>
-- <a href="./西安交通大学少年班学生管理规定.pdf">西安交通大学少年班学生管理规定.pdf</a> <a href="./西安交通大学少年班学生管理规定.pdf" download>下载</a>
-- <a href="./2022级少年班专业选择方案.pdf">2022级少年班专业选择方案.pdf</a> <a href="./2022级少年班专业选择方案.pdf" download>下载</a>
+??? note "少年班预科二学生综合素质测评成绩评分细则.20231013.docx <a href="./少年班预科二学生综合素质测评成绩评分细则.20231013.docx" download>[下载]</a>"
+
+??? note "2022级少年班进入各类试验班选拔细则.pdf <a href="./2022级少年班进入各类试验班选拔细则.pdf" download>[下载]</a>"
+    <iframe src="2022级少年班进入各类试验班选拔细则.pdf" width="100%" height="500px"></iframe>
+
+??? note "西安交通大学本科生综合素质测评成绩评定办法.pdf <a href="./西安交通大学本科生综合素质测评成绩评定办法.pdf" download>[下载]</a>"
+    <iframe src="西安交通大学本科生综合素质测评成绩评定办法.pdf" width="100%" height="500px"></iframe>
+
+??? note "西安交通大学少年班学生管理规定.pdf <a href="./西安交通大学少年班学生管理规定.pdf" download>[下载]</a>"
+    <iframe src="西安交通大学少年班学生管理规定.pdf" width="100%" height="500px"></iframe>
+
+??? note "2022级少年班专业选择方案.pdf <a href="./2022级少年班专业选择方案.pdf" download>[下载]</a>"
+    <iframe src="2022级少年班专业选择方案.pdf" width="100%" height="500px"></iframe>
+
 
 !!! tip "使用提示"
-点击文件名下载相应文件。DOCX文件建议使用Word或兼容软件打开。
+    点击下载以下载相应文件，可以展开文件查看详情。DOCX文件建议使用Word或兼容软件打开。
 
 <!-- AUTOGEN CONTENT END -->

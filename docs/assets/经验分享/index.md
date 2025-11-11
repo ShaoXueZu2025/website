@@ -20,17 +20,34 @@
 <!-- AUTOGEN CONTENT START -->
 <!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->
 <!-- 这些内容是自动生成的，所有修改该都可能在未加确认的情况下直接覆盖，不要编辑!!! -->
-- <a href="./学习经验分享讲座.课内.pdf">学习经验分享讲座.课内.pdf</a> <a href="./学习经验分享讲座.课内.pdf" download>下载</a>
-- <a href="./少年班新生Q&A.202508.pdf">少年班新生Q&A.202508.pdf</a> <a href="./少年班新生Q&A.202508.pdf" download>下载</a>
-- <a href="./少年班经验分享_肖恩泽.pdf">少年班经验分享_肖恩泽.pdf</a> <a href="./少年班经验分享_肖恩泽.pdf" download>下载</a>
-- <a href="./少年班结业指南.202505.pdf">少年班结业指南.202505.pdf</a> <a href="./少年班结业指南.202505.pdf" download>下载</a>
-- <a href="./德育分.pdf">德育分.pdf</a> <a href="./德育分.pdf" download>下载</a>
-- <a href="./新生讲座.pptx">新生讲座.pptx</a> <a href="./新生讲座.pptx" download>下载</a>
-- <a href="./预科二新生指南.2024.pdf">预科二新生指南.2024.pdf</a> <a href="./预科二新生指南.2024.pdf" download>下载</a>
-- <a href="./预科二新生指南.2025.pdf">预科二新生指南.2025.pdf</a> <a href="./预科二新生指南.2025.pdf" download>下载</a>
-- <a href="./预科二竞赛指南.pdf">预科二竞赛指南.pdf</a> <a href="./预科二竞赛指南.pdf" download>下载</a>
+??? note "学习经验分享讲座.课内.pdf <a href="./学习经验分享讲座.课内.pdf" download>[下载]</a>"
+    <iframe src="学习经验分享讲座.课内.pdf" width="100%" height="500px"></iframe>
+
+??? note "少年班新生Q&A.202508.pdf <a href="./少年班新生Q&A.202508.pdf" download>[下载]</a>"
+    <iframe src="少年班新生Q&A.202508.pdf" width="100%" height="500px"></iframe>
+
+??? note "少年班经验分享_肖恩泽.pdf <a href="./少年班经验分享_肖恩泽.pdf" download>[下载]</a>"
+    <iframe src="少年班经验分享_肖恩泽.pdf" width="100%" height="500px"></iframe>
+
+??? note "少年班结业指南.202505.pdf <a href="./少年班结业指南.202505.pdf" download>[下载]</a>"
+    <iframe src="少年班结业指南.202505.pdf" width="100%" height="500px"></iframe>
+
+??? note "德育分.pdf <a href="./德育分.pdf" download>[下载]</a>"
+    <iframe src="德育分.pdf" width="100%" height="500px"></iframe>
+
+??? note "新生讲座.pptx <a href="./新生讲座.pptx" download>[下载]</a>"
+
+??? note "预科二新生指南.2024.pdf <a href="./预科二新生指南.2024.pdf" download>[下载]</a>"
+    <iframe src="预科二新生指南.2024.pdf" width="100%" height="500px"></iframe>
+
+??? note "预科二新生指南.2025.pdf <a href="./预科二新生指南.2025.pdf" download>[下载]</a>"
+    <iframe src="预科二新生指南.2025.pdf" width="100%" height="500px"></iframe>
+
+??? note "预科二竞赛指南.pdf <a href="./预科二竞赛指南.pdf" download>[下载]</a>"
+    <iframe src="预科二竞赛指南.pdf" width="100%" height="500px"></iframe>
+
 
 !!! tip "使用提示"
-点击文件名下载相应文件。DOCX文件建议使用Word或兼容软件打开。
+    点击下载以下载相应文件，可以展开文件查看详情。DOCX文件建议使用Word或兼容软件打开。
 
 <!-- AUTOGEN CONTENT END -->

@@ -32,26 +32,58 @@
 <!-- 这些内容是自动生成的，所有修改该都可能在未加确认的情况下直接覆盖，不要编辑!!! -->
 <h2 id="练习">练习</h2>
 
-- <a href="./元素部分例题.20231226.pdf">元素部分例题.20231226.pdf</a> <a href="./元素部分例题.20231226.pdf" download>下载</a>
-- <a href="./化学习题课.pptx">化学习题课.pptx</a> <a href="./化学习题课.pptx" download>下载</a>
-- <a href="./化学期中复习讲座.2025.pptx">化学期中复习讲座.2025.pptx</a> <a href="./化学期中复习讲座.2025.pptx" download>下载</a>
-- <a href="./化学期中复习资料.pdf">化学期中复习资料.pdf</a> <a href="./化学期中复习资料.pdf" download>下载</a>
-- <a href="./少年班预科二化学实验课指南.docx">少年班预科二化学实验课指南.docx</a> <a href="./少年班预科二化学实验课指南.docx" download>下载</a>
-- <a href="./总复习.20231221.pdf">总复习.20231221.pdf</a> <a href="./总复习.20231221.pdf" download>下载</a>
-- <a href="./无机考试题回忆汇编.pdf">无机考试题回忆汇编.pdf</a> <a href="./无机考试题回忆汇编.pdf" download>下载</a>
-- <a href="./期中复习讲座.pptx">期中复习讲座.pptx</a> <a href="./期中复习讲座.pptx" download>下载</a>
-- <a href="./物质结构与性质无机篇复习讲座.pdf">物质结构与性质无机篇复习讲座.pdf</a> <a href="./物质结构与性质无机篇复习讲座.pdf" download>下载</a>
-- <a href="./第1章-原子结构-1.20230911.pdf">第1章-原子结构-1.20230911.pdf</a> <a href="./第1章-原子结构-1.20230911.pdf" download>下载</a>
-- <a href="./第1章-原子结构-2.20230928.pdf">第1章-原子结构-2.20230928.pdf</a> <a href="./第1章-原子结构-2.20230928.pdf" download>下载</a>
-- <a href="./第2章-分子结构-1.20231009.pdf">第2章-分子结构-1.20231009.pdf</a> <a href="./第2章-分子结构-1.20231009.pdf" download>下载</a>
-- <a href="./第2章-分子结构-2.20231017.pdf">第2章-分子结构-2.20231017.pdf</a> <a href="./第2章-分子结构-2.20231017.pdf" download>下载</a>
-- <a href="./第3章-固体结构.20231106.pdf">第3章-固体结构.20231106.pdf</a> <a href="./第3章-固体结构.20231106.pdf" download>下载</a>
-- <a href="./第4章-配位化合物结构.20231106.pdf">第4章-配位化合物结构.20231106.pdf</a> <a href="./第4章-配位化合物结构.20231106.pdf" download>下载</a>
-- <a href="./第5章-主族元素-p-block.20231204.pdf">第5章-主族元素-p-block.20231204.pdf</a> <a href="./第5章-主族元素-p-block.20231204.pdf" download>下载</a>
-- <a href="./第5章-主族元素-s-block.20231120.pdf">第5章-主族元素-s-block.20231120.pdf</a> <a href="./第5章-主族元素-s-block.20231120.pdf" download>下载</a>
-- <a href="./第5章-副族元素-d-block.20231219.pdf">第5章-副族元素-d-block.20231219.pdf</a> <a href="./第5章-副族元素-d-block.20231219.pdf" download>下载</a>
+??? note "元素部分例题.20231226.pdf <a href="./元素部分例题.20231226.pdf" download>[下载]</a>"
+    <iframe src="元素部分例题.20231226.pdf" width="100%" height="500px"></iframe>
+
+??? note "化学习题课.pptx <a href="./化学习题课.pptx" download>[下载]</a>"
+
+??? note "化学期中复习讲座.2025.pptx <a href="./化学期中复习讲座.2025.pptx" download>[下载]</a>"
+
+??? note "化学期中复习资料.pdf <a href="./化学期中复习资料.pdf" download>[下载]</a>"
+    <iframe src="化学期中复习资料.pdf" width="100%" height="500px"></iframe>
+
+??? note "少年班预科二化学实验课指南.docx <a href="./少年班预科二化学实验课指南.docx" download>[下载]</a>"
+
+??? note "总复习.20231221.pdf <a href="./总复习.20231221.pdf" download>[下载]</a>"
+    <iframe src="总复习.20231221.pdf" width="100%" height="500px"></iframe>
+
+??? note "无机考试题回忆汇编.pdf <a href="./无机考试题回忆汇编.pdf" download>[下载]</a>"
+    <iframe src="无机考试题回忆汇编.pdf" width="100%" height="500px"></iframe>
+
+??? note "期中复习讲座.pptx <a href="./期中复习讲座.pptx" download>[下载]</a>"
+
+??? note "物质结构与性质无机篇复习讲座.pdf <a href="./物质结构与性质无机篇复习讲座.pdf" download>[下载]</a>"
+    <iframe src="物质结构与性质无机篇复习讲座.pdf" width="100%" height="500px"></iframe>
+
+??? note "第1章-原子结构-1.20230911.pdf <a href="./第1章-原子结构-1.20230911.pdf" download>[下载]</a>"
+    <iframe src="第1章-原子结构-1.20230911.pdf" width="100%" height="500px"></iframe>
+
+??? note "第1章-原子结构-2.20230928.pdf <a href="./第1章-原子结构-2.20230928.pdf" download>[下载]</a>"
+    <iframe src="第1章-原子结构-2.20230928.pdf" width="100%" height="500px"></iframe>
+
+??? note "第2章-分子结构-1.20231009.pdf <a href="./第2章-分子结构-1.20231009.pdf" download>[下载]</a>"
+    <iframe src="第2章-分子结构-1.20231009.pdf" width="100%" height="500px"></iframe>
+
+??? note "第2章-分子结构-2.20231017.pdf <a href="./第2章-分子结构-2.20231017.pdf" download>[下载]</a>"
+    <iframe src="第2章-分子结构-2.20231017.pdf" width="100%" height="500px"></iframe>
+
+??? note "第3章-固体结构.20231106.pdf <a href="./第3章-固体结构.20231106.pdf" download>[下载]</a>"
+    <iframe src="第3章-固体结构.20231106.pdf" width="100%" height="500px"></iframe>
+
+??? note "第4章-配位化合物结构.20231106.pdf <a href="./第4章-配位化合物结构.20231106.pdf" download>[下载]</a>"
+    <iframe src="第4章-配位化合物结构.20231106.pdf" width="100%" height="500px"></iframe>
+
+??? note "第5章-主族元素-p-block.20231204.pdf <a href="./第5章-主族元素-p-block.20231204.pdf" download>[下载]</a>"
+    <iframe src="第5章-主族元素-p-block.20231204.pdf" width="100%" height="500px"></iframe>
+
+??? note "第5章-主族元素-s-block.20231120.pdf <a href="./第5章-主族元素-s-block.20231120.pdf" download>[下载]</a>"
+    <iframe src="第5章-主族元素-s-block.20231120.pdf" width="100%" height="500px"></iframe>
+
+??? note "第5章-副族元素-d-block.20231219.pdf <a href="./第5章-副族元素-d-block.20231219.pdf" download>[下载]</a>"
+    <iframe src="第5章-副族元素-d-block.20231219.pdf" width="100%" height="500px"></iframe>
+
 
 !!! tip "使用提示"
-点击文件名下载相应文件。DOCX文件建议使用Word或兼容软件打开。
+    点击下载以下载相应文件，可以展开文件查看详情。DOCX文件建议使用Word或兼容软件打开。
 
 <!-- AUTOGEN CONTENT END -->

@@ -9,15 +9,27 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    - scheme: default
-      primary: blue
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
       accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
   custom_dir: docs/overrides
-plugins:
-  - file_download
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -37,23 +49,24 @@ nav:
     - 经验分享: assets/经验分享/index.md
     - 课程资料:
       - 数学:
-        - 数学1: assets/课程资料/数学1/index.md
-        - 数学2: assets/课程资料/数学2/index.md
+        - 数学1: assets/课程资料/数学/数学1/index.md
+        - 数学2: assets/课程资料/数学/数学2/index.md
       - 化学:
         - 无机化学:
-          - 概览: assets/课程资料/无机化学/index.md
-          - 无机化学自主练习: assets/课程资料/无机化学/无机化学自主练习/index.md
+          - 概览: assets/课程资料/化学/无机化学/资料/index.md
+          - 自主练习: assets/课程资料/化学/无机化学/自主练习/index.md
         - 有机化学:
-          - 概览: assets/课程资料/有机化学/index.md
-          - 习题课: assets/课程资料/有机化学/习题课/index.md
+          - 概览: assets/课程资料/化学/有机化学/index.md
+          - 习题课: assets/课程资料/化学/有机化学/习题课/index.md
       - 物理:
         - 上学期物理: assets/课程资料/物理/上学期物理/index.md
         - 现代物理基础导论: assets/课程资料/物理/现代物理基础导论/index.md
       - 生物:
-        - 生物2: assets/课程资料/生物2/index.md
+        - 生物1: assets/课程资料/生物/生物1/index.md
+        - 生物2: assets/课程资料/生物/生物2/index.md
       - 语文:
-        - 语文1: assets/课程资料/语文1/index.md
-        - 语文2: assets/课程资料/语文2/index.md
+        - 语文1: assets/课程资料/语文/语文1/index.md
+        - 语文2: assets/课程资料/语文/语文2/index.md
       - 音乐: assets/课程资料/音乐/index.md
       - 历史与文化: assets/课程资料/历史与文化/index.md
-    - 综合资料: assets/综合资料/index.md
+      - 综合: assets/课程资料/综合/index.md

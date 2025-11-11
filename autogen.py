@@ -22,9 +22,18 @@ def find_md_files(root_dir):
                 md_files.append((root, file))
     return md_files
 
+
 def gen_line(operation, data):
     if operation == "LIST":
-        return f'- <a href="./{data}">{data}</a> <a href="./{data}" download>下载</a>\n'
+        if os.path.splitext(data)[1] == ".pdf":
+            return (
+                f'??? note "{data} <a href="./{data}" download>[下载]</a>"\n'
+                f'    <iframe src="{data}" width="100%" height="500px"></iframe>\n\n'
+            )
+        else:
+            return (
+                f'??? note "{data} <a href="./{data}" download>[下载]</a>"\n\n'
+            )
     elif operation == "IGNORE":
         return ""
     elif operation == "HEADER":
@@ -41,7 +50,12 @@ if __name__ == "__main__":
             print(f"{os.path.join(root, file)} has GEN FileList")
             content = content.replace(
                 "<!-- GEN -->",
-                "<!-- AUTOGEN CONFIG START -->\n<!-- AUTOGEN CONFIG END -->\n\n<!-- AUTOGEN CONTENT START -->\n<!-- AUTOGEN CONTENT END -->",
+                (
+                    "<!-- AUTOGEN CONFIG START -->\n"
+                    "<!-- AUTOGEN CONFIG END --\n>"
+                    "<!-- AUTOGEN CONTENT START -->\n"
+                    "<!-- AUTOGEN CONTENT END -->",
+                ),
             )
 
         match = re.search(CONFIG_REGEX, content)
@@ -92,13 +106,10 @@ if __name__ == "__main__":
             + "<!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->\n"
             + "<!-- 这些内容是自动生成的，所有修改该都可能在未加确认的情况下直接覆盖，不要编辑!!! -->\n"
             + "".join(
-                [
-                    gen_line(operation, name)
-                    for operation, name in final_config
-                ]
+                [gen_line(operation, name) for operation, name in final_config]
             )
             + '\n!!! tip "使用提示"\n'
-            + "点击文件名下载相应文件。DOCX文件建议使用Word或兼容软件打开。\n"
+            + "    点击下载以下载相应文件，可以展开文件查看详情。DOCX文件建议使用Word或兼容软件打开。\n"
             + "\n<!-- AUTOGEN CONTENT END -->",
             content,
         )

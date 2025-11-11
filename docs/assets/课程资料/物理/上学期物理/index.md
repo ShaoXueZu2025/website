@@ -17,14 +17,20 @@
 <!-- AUTOGEN CONTENT START -->
 <!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->
 <!-- 这些内容是自动生成的，所有修改该都可能在未加确认的情况下直接覆盖，不要编辑!!! -->
-- <a href="./几何光学小结.docx">几何光学小结.docx</a> <a href="./几何光学小结.docx" download>下载</a>
-- <a href="./分子动理论小结.docx">分子动理论小结.docx</a> <a href="./分子动理论小结.docx" download>下载</a>
-- <a href="./波动光学小结.docx">波动光学小结.docx</a> <a href="./波动光学小结.docx" download>下载</a>
-- <a href="./热力学小结.docx">热力学小结.docx</a> <a href="./热力学小结.docx" download>下载</a>
-- <a href="./热力学小结修改版.docx">热力学小结修改版.docx</a> <a href="./热力学小结修改版.docx" download>下载</a>
-- <a href="./电磁学小结.docx">电磁学小结.docx</a> <a href="./电磁学小结.docx" download>下载</a>
+??? note "几何光学小结.docx <a href="./几何光学小结.docx" download>[下载]</a>"
+
+??? note "分子动理论小结.docx <a href="./分子动理论小结.docx" download>[下载]</a>"
+
+??? note "波动光学小结.docx <a href="./波动光学小结.docx" download>[下载]</a>"
+
+??? note "热力学小结.docx <a href="./热力学小结.docx" download>[下载]</a>"
+
+??? note "热力学小结修改版.docx <a href="./热力学小结修改版.docx" download>[下载]</a>"
+
+??? note "电磁学小结.docx <a href="./电磁学小结.docx" download>[下载]</a>"
+
 
 !!! tip "使用提示"
-点击文件名下载相应文件。DOCX文件建议使用Word或兼容软件打开。
+    点击下载以下载相应文件，可以展开文件查看详情。DOCX文件建议使用Word或兼容软件打开。
 
 <!-- AUTOGEN CONTENT END -->
