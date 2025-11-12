@@ -16,7 +16,7 @@
 !!! note "中国民族器乐.pptx <a href="./中国民族器乐.pptx" download>[下载]</a>"
 
 ??? note "音乐课ppt乐理部分.pdf <a href="./音乐课ppt乐理部分.pdf" download>[下载]</a>"
-    <object data="音乐课ppt乐理部分.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="音乐课ppt乐理部分.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

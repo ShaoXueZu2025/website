@@ -36,10 +36,10 @@
 !!! note "专题3 胚胎工程-总.pptx <a href="./专题3 胚胎工程-总.pptx" download>[下载]</a>"
 
 ??? note "生物II复习笔记 - 肖恩泽.pdf <a href="./生物II复习笔记 - 肖恩泽.pdf" download>[下载]</a>"
-    <object data="生物II复习笔记 - 肖恩泽.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="生物II复习笔记 - 肖恩泽.pdf" width="100%" height="500px"></iframe>
 
 ??? note "生物期末复习-HNO3.pdf <a href="./生物期末复习-HNO3.pdf" download>[下载]</a>"
-    <object data="生物期末复习-HNO3.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="生物期末复习-HNO3.pdf" width="100%" height="500px"></iframe>
 
 !!! note "总复习.pptx <a href="./总复习.pptx" download>[下载]</a>"
 

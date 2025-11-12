@@ -15,13 +15,13 @@
 <!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->
 <!-- 这些内容是自动生成的喵，所有修改该都可能在未加确认的情况下直接覆盖喵，不要编辑喵!!! -->
 ??? note "期末复习指南.2022.pdf <a href="./期末复习指南.2022.pdf" download>[下载]</a>"
-    <object data="期末复习指南.2022.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="期末复习指南.2022.pdf" width="100%" height="500px"></iframe>
 
 ??? note "预科二上学期期末复习手册.pdf <a href="./预科二上学期期末复习手册.pdf" download>[下载]</a>"
-    <object data="预科二上学期期末复习手册.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="预科二上学期期末复习手册.pdf" width="100%" height="500px"></iframe>
 
 ??? note "预科二新生指南.pdf <a href="./预科二新生指南.pdf" download>[下载]</a>"
-    <object data="预科二新生指南.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="预科二新生指南.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

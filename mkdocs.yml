@@ -48,6 +48,7 @@ nav:
     - 官方文件转载: assets/官方文件转载/index.md
     - 经验分享: assets/经验分享/index.md
     - 课程资料:
+      - 概览: assets/课程资料/index.md
       - 数学:
         - 数学1: assets/课程资料/数学/数学1/index.md
         - 数学2: assets/课程资料/数学/数学2/index.md

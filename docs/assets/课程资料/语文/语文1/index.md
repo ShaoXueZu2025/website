@@ -39,12 +39,12 @@
 <h2 id="考前复习">考前复习</h2>
 
 ??? note "中国戏剧与小说总复习产物.pdf <a href="./中国戏剧与小说总复习产物.pdf" download>[下载]</a>"
-    <object data="中国戏剧与小说总复习产物.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="中国戏剧与小说总复习产物.pdf" width="100%" height="500px"></iframe>
 
 !!! note "语文复习重点.docx <a href="./语文复习重点.docx" download>[下载]</a>"
 
 ??? note "2023 语文I 期末.pdf <a href="./2023 语文I 期末.pdf" download>[下载]</a>"
-    <object data="2023 语文I 期末.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="2023 语文I 期末.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

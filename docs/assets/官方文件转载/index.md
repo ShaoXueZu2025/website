@@ -19,16 +19,16 @@
 !!! note "少年班预科二学生综合素质测评成绩评分细则.20231013.docx <a href="./少年班预科二学生综合素质测评成绩评分细则.20231013.docx" download>[下载]</a>"
 
 ??? note "2022级少年班进入各类试验班选拔细则.pdf <a href="./2022级少年班进入各类试验班选拔细则.pdf" download>[下载]</a>"
-    <object data="2022级少年班进入各类试验班选拔细则.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="2022级少年班进入各类试验班选拔细则.pdf" width="100%" height="500px"></iframe>
 
 ??? note "西安交通大学本科生综合素质测评成绩评定办法.pdf <a href="./西安交通大学本科生综合素质测评成绩评定办法.pdf" download>[下载]</a>"
-    <object data="西安交通大学本科生综合素质测评成绩评定办法.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="西安交通大学本科生综合素质测评成绩评定办法.pdf" width="100%" height="500px"></iframe>
 
 ??? note "西安交通大学少年班学生管理规定.pdf <a href="./西安交通大学少年班学生管理规定.pdf" download>[下载]</a>"
-    <object data="西安交通大学少年班学生管理规定.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="西安交通大学少年班学生管理规定.pdf" width="100%" height="500px"></iframe>
 
 ??? note "2022级少年班专业选择方案.pdf <a href="./2022级少年班专业选择方案.pdf" download>[下载]</a>"
-    <object data="2022级少年班专业选择方案.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="2022级少年班专业选择方案.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

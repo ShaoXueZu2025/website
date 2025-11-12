@@ -18,13 +18,13 @@
 !!! note "语文复习资料.docx <a href="./语文复习资料.docx" download>[下载]</a>"
 
 ??? note "2022-2023 语文II.pdf <a href="./2022-2023 语文II.pdf" download>[下载]</a>"
-    <object data="2022-2023 语文II.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="2022-2023 语文II.pdf" width="100%" height="500px"></iframe>
 
 ??? note "2024-2025 语文II.pdf <a href="./2024-2025 语文II.pdf" download>[下载]</a>"
-    <object data="2024-2025 语文II.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="2024-2025 语文II.pdf" width="100%" height="500px"></iframe>
 
 ??? note "语文书.pdf <a href="./语文书.pdf" download>[下载]</a>"
-    <object data="语文书.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="语文书.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

@@ -21,30 +21,30 @@
 <!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->
 <!-- 这些内容是自动生成的喵，所有修改该都可能在未加确认的情况下直接覆盖喵，不要编辑喵!!! -->
 ??? note "学习经验分享讲座.课内.pdf <a href="./学习经验分享讲座.课内.pdf" download>[下载]</a>"
-    <object data="学习经验分享讲座.课内.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="学习经验分享讲座.课内.pdf" width="100%" height="500px"></iframe>
 
 ??? note "少年班新生Q&A.202508.pdf <a href="./少年班新生Q&A.202508.pdf" download>[下载]</a>"
-    <object data="少年班新生Q&A.202508.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="少年班新生Q&A.202508.pdf" width="100%" height="500px"></iframe>
 
 ??? note "少年班经验分享_肖恩泽.pdf <a href="./少年班经验分享_肖恩泽.pdf" download>[下载]</a>"
-    <object data="少年班经验分享_肖恩泽.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="少年班经验分享_肖恩泽.pdf" width="100%" height="500px"></iframe>
 
 ??? note "少年班结业指南.202505.pdf <a href="./少年班结业指南.202505.pdf" download>[下载]</a>"
-    <object data="少年班结业指南.202505.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="少年班结业指南.202505.pdf" width="100%" height="500px"></iframe>
 
 ??? note "德育分.pdf <a href="./德育分.pdf" download>[下载]</a>"
-    <object data="德育分.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="德育分.pdf" width="100%" height="500px"></iframe>
 
 !!! note "新生讲座.pptx <a href="./新生讲座.pptx" download>[下载]</a>"
 
 ??? note "预科二新生指南.2024.pdf <a href="./预科二新生指南.2024.pdf" download>[下载]</a>"
-    <object data="预科二新生指南.2024.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="预科二新生指南.2024.pdf" width="100%" height="500px"></iframe>
 
 ??? note "预科二新生指南.2025.pdf <a href="./预科二新生指南.2025.pdf" download>[下载]</a>"
-    <object data="预科二新生指南.2025.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="预科二新生指南.2025.pdf" width="100%" height="500px"></iframe>
 
 ??? note "预科二竞赛指南.pdf <a href="./预科二竞赛指南.pdf" download>[下载]</a>"
-    <object data="预科二竞赛指南.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="预科二竞赛指南.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

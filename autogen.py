@@ -28,7 +28,7 @@ def gen_line(operation, data):
         if os.path.splitext(data)[1] == ".pdf":
             return (
                 f'??? note "{data} <a href="./{data}" download>[下载]</a>"\n'
-                f'    <object data="{data}" width="100%" height="500px"></object>\n\n'
+                f'    <iframe loading="lazy" src="{data}" width="100%" height="500px"></iframe>\n\n'
             )
         else:
             return (

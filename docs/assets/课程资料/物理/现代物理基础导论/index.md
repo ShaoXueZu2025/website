@@ -98,26 +98,26 @@
 <h2 id="复习">复习</h2>
 
 ??? note "相对论（2-3) .pdf <a href="./相对论（2-3) .pdf" download>[下载]</a>"
-    <object data="相对论（2-3) .pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="相对论（2-3) .pdf" width="100%" height="500px"></iframe>
 
 ??? note "原子物理（4-9）.pdf <a href="./原子物理（4-9）.pdf" download>[下载]</a>"
-    <object data="原子物理（4-9）.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="原子物理（4-9）.pdf" width="100%" height="500px"></iframe>
 
 ??? note "量子物理（10-18）.pdf <a href="./量子物理（10-18）.pdf" download>[下载]</a>"
-    <object data="量子物理（10-18）.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="量子物理（10-18）.pdf" width="100%" height="500px"></iframe>
 
 !!! note "大学物理II-2.pptx <a href="./大学物理II-2.pptx" download>[下载]</a>"
 
 !!! note "复习.ppt <a href="./复习.ppt" download>[下载]</a>"
 
 ??? note "《近代物理学导论》复习指导.pdf <a href="./《近代物理学导论》复习指导.pdf" download>[下载]</a>"
-    <object data="《近代物理学导论》复习指导.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="《近代物理学导论》复习指导.pdf" width="100%" height="500px"></iframe>
 
 ??? note "Yang & Liu：物理复习提纲.pdf <a href="./Yang & Liu：物理复习提纲.pdf" download>[下载]</a>"
-    <object data="Yang & Liu：物理复习提纲.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="Yang & Liu：物理复习提纲.pdf" width="100%" height="500px"></iframe>
 
 ??? note "现代物理基础导论-题型.pdf <a href="./现代物理基础导论-题型.pdf" download>[下载]</a>"
-    <object data="现代物理基础导论-题型.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="现代物理基础导论-题型.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"

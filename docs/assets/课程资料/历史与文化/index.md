@@ -21,21 +21,21 @@
 !!! note "历史与文化第二讲.pptx <a href="./历史与文化第二讲.pptx" download>[下载]</a>"
 
 ??? note "历史与文化第三讲.pdf <a href="./历史与文化第三讲.pdf" download>[下载]</a>"
-    <object data="历史与文化第三讲.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="历史与文化第三讲.pdf" width="100%" height="500px"></iframe>
 
 ??? note "历史与文化第四讲.pdf <a href="./历史与文化第四讲.pdf" download>[下载]</a>"
-    <object data="历史与文化第四讲.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="历史与文化第四讲.pdf" width="100%" height="500px"></iframe>
 
 ??? note "历史与文化第五讲.pdf <a href="./历史与文化第五讲.pdf" download>[下载]</a>"
-    <object data="历史与文化第五讲.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="历史与文化第五讲.pdf" width="100%" height="500px"></iframe>
 
 !!! note "历史与文化第六讲.pptx <a href="./历史与文化第六讲.pptx" download>[下载]</a>"
 
 ??? note "历史与文化第七讲.pdf <a href="./历史与文化第七讲.pdf" download>[下载]</a>"
-    <object data="历史与文化第七讲.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="历史与文化第七讲.pdf" width="100%" height="500px"></iframe>
 
 ??? note "复习提纲.pdf <a href="./复习提纲.pdf" download>[下载]</a>"
-    <object data="复习提纲.pdf" width="100%" height="500px"></object>
+    <iframe loading="lazy" src="复习提纲.pdf" width="100%" height="500px"></iframe>
 
 
 !!! tip "使用提示"
