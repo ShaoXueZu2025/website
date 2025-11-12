@@ -104,7 +104,7 @@ if __name__ == "__main__":
             AUTOGEN_REGEX,
             "<!-- AUTOGEN CONTENT START -->\n"
             "<!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->\n"
-            "<!-- 这些内容是自动生成的，所有修改该都可能在未加确认的情况下直接覆盖，不要编辑!!! -->\n"
+            "<!-- 这些内容是自动生成的喵，所有修改该都可能在未加确认的情况下直接覆盖喵，不要编辑喵!!! -->\n"
             + "".join(
                 [gen_line(operation, name) for operation, name in final_config]
             )
