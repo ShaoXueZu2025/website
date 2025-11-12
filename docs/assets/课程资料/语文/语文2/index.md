@@ -7,12 +7,24 @@
 
 <!-- AUTOGEN CONFIG START -->
 <!-- LIST: [语文复习资料.docx] -->
+<!-- LIST: [2022-2023 语文II.pdf] -->
+<!-- LIST: [2024-2025 语文II.pdf] -->
+<!-- LIST: [语文书.pdf] -->
 <!-- AUTOGEN CONFIG END -->
 
 <!-- AUTOGEN CONTENT START -->
 <!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->
 <!-- 这些内容是自动生成的喵，所有修改该都可能在未加确认的情况下直接覆盖喵，不要编辑喵!!! -->
 !!! note "语文复习资料.docx <a href="./语文复习资料.docx" download>[下载]</a>"
+
+??? note "2022-2023 语文II.pdf <a href="./2022-2023 语文II.pdf" download>[下载]</a>"
+    <object data="2022-2023 语文II.pdf" width="100%" height="500px"></object>
+
+??? note "2024-2025 语文II.pdf <a href="./2024-2025 语文II.pdf" download>[下载]</a>"
+    <object data="2024-2025 语文II.pdf" width="100%" height="500px"></object>
+
+??? note "语文书.pdf <a href="./语文书.pdf" download>[下载]</a>"
+    <object data="语文书.pdf" width="100%" height="500px"></object>
 
 
 !!! tip "使用提示"

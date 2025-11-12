@@ -30,6 +30,7 @@
 <!-- LIST: [数学II解答.pdf] -->
 <!-- LIST: [数学II_第六题和第八题另解.pdf] -->
 <!-- LIST: [数学II期末两道证明题的讨论.pdf] -->
+<!-- LIST: [数试加试题（2021级-2023级）.pdf] -->
 <!-- AUTOGEN CONFIG END -->
 
 <!-- AUTOGEN CONTENT START -->
@@ -102,6 +103,9 @@
 
 ??? note "数学II期末两道证明题的讨论.pdf <a href="./数学II期末两道证明题的讨论.pdf" download>[下载]</a>"
     <object data="数学II期末两道证明题的讨论.pdf" width="100%" height="500px"></object>
+
+??? note "数试加试题（2021级-2023级）.pdf <a href="./数试加试题（2021级-2023级）.pdf" download>[下载]</a>"
+    <object data="数试加试题（2021级-2023级）.pdf" width="100%" height="500px"></object>
 
 
 !!! tip "使用提示"
