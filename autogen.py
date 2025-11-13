@@ -1,6 +1,6 @@
-import itertools
 import os
 import re
+import sys
 
 CONFIG_REGEX = (
     r"<!-- AUTOGEN CONFIG START -->([\s\S]*)<!-- AUTOGEN CONFIG END -->"
@@ -40,7 +40,7 @@ def gen_line(operation, data):
         return f'<h2 id="{data}">{data}</h2>\n\n'
 
 
-if __name__ == "__main__":
+def generate_lists():
     docs_dir = "docs"
     md_files = find_md_files(docs_dir)
     for root, file in md_files:
@@ -117,3 +117,26 @@ if __name__ == "__main__":
 
         with open(os.path.join(root, file), "w", encoding="utf-8") as f:
             f.write(content)
+
+
+def remove_lists():
+    docs_dir = "docs"
+    md_files = find_md_files(docs_dir)
+    for root, file in md_files:
+        with open(os.path.join(root, file), "r", encoding="utf-8") as f:
+            content = f.read()
+
+            content = re.sub(
+                AUTOGEN_REGEX,
+                "<!-- AUTOGEN CONTENT START -->\n<!-- AUTOGEN CONTENT END -->",
+                content,
+            )
+            with open(os.path.join(root, file), "w", encoding="utf-8") as f:
+                f.write(content)
+
+
+if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "remove":
+        remove_lists()
+    else:
+        generate_lists()
