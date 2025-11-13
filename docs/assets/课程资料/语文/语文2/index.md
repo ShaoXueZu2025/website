@@ -3,7 +3,7 @@
 !!! info "科目介绍"
     语文2课程深化文学分析。
 
-## 下载资源
+
 
 <!-- AUTOGEN CONFIG START -->
 <!-- LIST: [语文复习资料.docx] -->

@@ -3,7 +3,7 @@
 !!! info "科目介绍"
     有机化学课程介绍碳基化合物。
 
-## 下载资源
+
 
 <!-- AUTOGEN CONFIG START -->
 <!-- LIST: [Introduction to organic chemistry by Brown W.H., Poon T..pdf] -->

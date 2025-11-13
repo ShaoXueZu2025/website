@@ -3,7 +3,7 @@
 !!! info "科目介绍"
     语文1课程介绍文学和语言基础。
 
-## 下载资源
+
 
 <!-- AUTOGEN CONFIG START -->
 <!-- HEADER: [专题PPT] -->
