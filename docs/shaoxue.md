@@ -22,3 +22,9 @@
 ### 资源分享
 
 通过网站提供专业介绍、官方文件、经验分享和课程资料。
+
+## 联系我们
+
+Email: [fycbot@163.com](mailto:fycbot@163.com)
+
+Email: [sigmacyc@outlook.com](mailto:sigmacyc@outlook.com)
