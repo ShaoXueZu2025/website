@@ -23,16 +23,21 @@ def find_md_files(root_dir):
     return md_files
 
 
-def gen_line(operation, data):
+def gen_github_link(root, file):
+    link = root.replace("\\", "/").replace("docs/", "") + "/" + file
+    return f"https://github.com/ShaoXueZu2025/website/raw/refs/heads/main/docs/{link}"
+
+
+def gen_line(operation, data, root):
     if operation == "LIST":
         if os.path.splitext(data)[1] == ".pdf":
             return (
-                f'??? note "{data} <a href="./{data}" download>[下载]</a>"\n'
+                f'??? note "{data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n'
                 f'    <iframe loading="lazy" src="{data}" width="100%" height="500px"></iframe>\n\n'
             )
         else:
             return (
-                f'!!! note "{data} <a href="./{data}" download>[下载]</a>"\n\n'
+                f'!!! note "{data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n\n'
             )
     elif operation == "IGNORE":
         return ""
@@ -106,7 +111,10 @@ def generate_lists():
             "<!-- THESE CONTENT BETWEEN START & END TAGS ARE AUTO GENERATED. DO NOT EDIT!!! -->\n"
             "<!-- 这些内容是自动生成的喵，所有修改该都可能在未加确认的情况下直接覆盖喵，不要编辑喵!!! -->\n"
             + "".join(
-                [gen_line(operation, name) for operation, name in final_config]
+                [
+                    gen_line(operation, name, root)
+                    for operation, name in final_config
+                ]
             )
             + '\n!!! tip "使用提示"\n'
             "    点击“下载”以下载相应文件，部分文件可以展开文件查看详情。手机端预览功能可能不兼容，建议下载后浏览。"
