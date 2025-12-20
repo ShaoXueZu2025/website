@@ -14,6 +14,7 @@
 <!-- LIST: [数学1试题.pdf] -->
 <!-- LIST: [数学1解答.2024.pdf] -->
 <!-- LIST: [关于预科二数学课程的一些资料.pdf] -->
+<!-- LIST: [数学I期末复习讲座(2025.12).pdf] -->
 <!-- AUTOGEN CONFIG END -->
 
 <!-- AUTOGEN CONTENT START -->

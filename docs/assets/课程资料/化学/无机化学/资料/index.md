@@ -24,6 +24,8 @@
 <!-- LIST: [无机考试题回忆汇编.pdf] -->
 <!-- LIST: [期中复习讲座.pptx] -->
 <!-- LIST: [物质结构与性质无机篇复习讲座.pdf] -->
+<!-- LIST: [固体结构(2025.12).pptx] -->
+<!-- LIST: [少学组化学期末复习讲座(2025.12).pptx] -->
 <!-- AUTOGEN CONFIG END -->
 
 <!-- AUTOGEN CONTENT START -->
