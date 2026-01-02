@@ -32,12 +32,12 @@ def gen_line(operation, data, root):
     if operation == "LIST":
         if os.path.splitext(data)[1] == ".pdf":
             return (
-                f'??? note "{"🎉" + data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n'
+                f'??? note "{data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n'
                 f'    <iframe loading="lazy" src="{data}" width="100%" height="500px"></iframe>\n\n'
             )
         else:
             return (
-                f'!!! note "{"🎉" + data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n\n'
+                f'!!! note "{data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n\n'
             )
     elif operation == "IGNORE":
         return ""
