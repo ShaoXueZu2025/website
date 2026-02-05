@@ -7,7 +7,7 @@
 
 <!-- AUTOGEN CONFIG START -->
 <!-- HEADER: [课件] -->
-<!-- LIST: [1 绪论+光的本性done.ppt] -->
+<!-- LIST: [1 绪论.光的本性done.ppt] -->
 <!-- LIST: [2 时空的奥秘之以太在哪里done.ppt] -->
 <!-- LIST: [3 时空的奥秘之时空的涟漪done.ppt] -->
 <!-- LIST: [4 进入微观世界之原子结构done.ppt] -->
