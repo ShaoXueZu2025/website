@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+from urllib.parse import quote
 
 CONFIG_REGEX = (
     r"<!-- AUTOGEN CONFIG START -->([\s\S]*)<!-- AUTOGEN CONFIG END -->"
@@ -23,21 +24,26 @@ def find_md_files(root_dir):
     return md_files
 
 
+def escape_url_path(path):
+    return quote(path, safe="/")
+
+
 def gen_github_link(root, file):
     link = root.replace("\\", "/").replace("docs/", "") + "/" + file
-    return f"https://github.com/ShaoXueZu2025/website/raw/refs/heads/main/docs/{link}"
+    return f"https://github.com/ShaoXueZu2025/website/raw/refs/heads/main/docs/{escape_url_path(link)}"
 
 
 def gen_line(operation, data, root):
     if operation == "LIST":
+        escaped_data = quote(data)
         if os.path.splitext(data)[1] == ".pdf":
             return (
-                f'??? note "{"🎉" + data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n'
-                f'    <iframe loading="lazy" src="{data}" width="100%" height="500px"></iframe>\n\n'
+                f'??? note "{"🎉" + data} <a href="./{escaped_data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n'
+                f'    <iframe loading="lazy" src="{escaped_data}" width="100%" height="500px"></iframe>\n\n'
             )
         else:
             return (
-                f'!!! note "{"🎉" + data} <a href="./{data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n\n'
+                f'!!! note "{"🎉" + data} <a href="./{escaped_data}" download>[下载]</a> <a href="{gen_github_link(root, data)}" download>[GitHub下载]</a>"\n\n'
             )
     elif operation == "IGNORE":
         return ""
