@@ -1,7 +1,7 @@
 # 欢迎来到少学组网站
 
-!!! info "新年快乐喵！"
-    喵喵喵？你现在为什么会打开这个网站喵？卷成啥喵🤔
+!!! info "开学快乐喵！"
+    喵喵喵？你现在为什么才打开这个网站喵？摆成啥喵🤔
 
 !!! info "少学组简介"
     少学组致力于为少年班学生提供优质的学习资源和社区支持。我们提供专业介绍、官方文件、经验分享和课程资料，帮助您在学习道路上不断进步。
@@ -27,7 +27,7 @@
   <div class="card">
     <h3><i class="fa-solid fa-graduation-cap"></i> 课程资料</h3>
     <p>丰富的课程资料和学习材料。</p>
-    <a href="https://www.bilibili.com/video/BV1GJ411x7h7/?share_source=copy_web&vd_source=e07a291bd9ed9ab3fc67766381cd3332">进入 <i class="fa-solid fa-arrow-right"></i></a>
+    <a href="assets/课程资料/">进入 <i class="fa-solid fa-arrow-right"></i></a>
   </div>
 </div>
 
